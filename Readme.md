@@ -12,4 +12,4 @@
 - 如果输入vcf是否可读入vcf的详细信息然后也以悬浮窗进行展示
 
 ## 目前结果展示
-![demo_pic]()
+![demo_pic](https://github.com/SilenWang/fastaAnno/blob/master/pic/demo.jpeg)
